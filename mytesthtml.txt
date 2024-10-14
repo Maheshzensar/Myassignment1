@@ -1,0 +1,11 @@
+<html>
+<body>
+<p>Here is a quote from my view:</p>
+<blockquote cite="http://www.google.com">
+For Learning Practice is must
+</blockquote>
+<p>
+This is the difference
+</p>
+<body/>
+</html>
